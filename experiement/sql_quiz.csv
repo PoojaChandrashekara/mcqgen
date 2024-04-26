@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What does SQL stand for?,a: Structured Question Language | b: Structured Query Language | c: Sequential Query Language | d: Systematic Query Language,b
+Which of the following is NOT a type of SQL statement?,a: Data Manipulation Language (DML) | b: Data Query Language (DQL) | c: Data Transmission Language (DTL) | d: Data Definition Language (DDL),c
+When was SQL adopted as a standard by ANSI?,a: 1986 | b: 1992 | c: 2003 | d: 2011,a
+Which company developed one of the first commercially available implementations of SQL in 1979?,a: IBM | b: Microsoft | c: Oracle | d: Google,c
+What does the term 'Null' represent in SQL?,a: A value of 0 | b: An empty string | c: The absence of a value | d: A placeholder for future data,c
